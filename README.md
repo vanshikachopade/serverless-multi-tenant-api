@@ -78,17 +78,17 @@ streamlit run app.py
 ## Screenshots
 
 ### Successful API Request
-![Success](screenshots/success.png)
+![Success](success.png)
 
 ---
 
 ### Rate Limit Exceeded
-![Rate Limit](screenshots/rate-limit.png)
+![Rate Limit](rate-limit.png)
 
 ---
 
 ### JSON Response
-![JSON Response](screenshots/json-response.png)
+![JSON Response](json-response.png)
 
 📂 Project Structure
 serverless-multi-tenant-api/
